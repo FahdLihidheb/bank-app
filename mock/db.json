@@ -1,0 +1,100 @@
+{
+  "accounts": [
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "currency": "EUR",
+      "balance": 9998
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "currency": "USD",
+      "balance": 980.25
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "currency": "EUR",
+      "balance": 4500
+    },
+    {
+      "id": "7",
+      "name": "Ethan Harris",
+      "currency": "USD",
+      "balance": 2750
+    },
+    {
+      "id": "8",
+      "name": "Fiona Clark",
+      "currency": "EUR",
+      "balance": 1900.5
+    },
+    {
+      "id": "9",
+      "name": "George Lewis",
+      "currency": "GBP",
+      "balance": 800
+    },
+    {
+      "id": "10",
+      "name": "Hannah Walker",
+      "currency": "USD",
+      "balance": 3600.75
+    },
+    {
+      "id": "11",
+      "name": "Ian Hall",
+      "currency": "EUR",
+      "balance": 4100.25
+    },
+    {
+      "id": "12",
+      "name": "Jack Young",
+      "currency": "GBP",
+      "balance": 1500
+    },
+    {
+      "id": "13",
+      "name": "Karen King",
+      "currency": "USD",
+      "balance": 2200.5
+    },
+    {
+      "id": "14",
+      "name": "Liam Wright",
+      "currency": "EUR",
+      "balance": 3100.75
+    },
+    {
+      "id": "15",
+      "name": "Mia Scott",
+      "currency": "GBP",
+      "balance": 2700
+    },
+    {
+      "id": "16",
+      "name": "Noah Green",
+      "currency": "USD",
+      "balance": 1400.25
+    },
+    {
+      "id": "18",
+      "name": "Paul Baker",
+      "currency": "GBP",
+      "balance": 3300.1
+    },
+    {
+      "id": "19",
+      "name": "Quinn Carter",
+      "currency": "CHF",
+      "balance": 2900
+    },
+    {
+      "id": "20",
+      "name": "Rachel Turner",
+      "currency": "EUR",
+      "balance": 2100.5
+    }
+  ]
+}
