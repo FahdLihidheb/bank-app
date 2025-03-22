@@ -95,6 +95,12 @@
       "name": "Rachel Turner",
       "currency": "EUR",
       "balance": 2100.5
+    },
+    {
+      "id": "9cd0",
+      "name": "Fahd Lihidheb",
+      "currency": "JPY",
+      "balance": 300
     }
   ]
 }
