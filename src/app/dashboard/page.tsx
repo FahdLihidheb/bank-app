@@ -47,8 +47,8 @@ export default function Dashboard() {
           <Link href="/">
             <Image
               className="dark:invert"
-              src="/eurosender.svg"
-              alt="Eurosender logo"
+              src="/next.svg"
+              alt="next logo"
               width={200}
               height={80}
             />

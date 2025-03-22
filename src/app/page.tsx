@@ -8,13 +8,13 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-center">
         <Image
           className="dark:invert"
-          src="/eurosender.svg"
+          src="/next.svg"
           alt="Vercel logomark"
           width={240}
           height={80}
         />
         <h1 className="text-2xl font-bold text-center">
-          Welcome to EuroSender Bank Application
+          Welcome to next Bank Application
         </h1>
         <div className="flex gap-4">
           <Link
@@ -24,7 +24,7 @@ export default function Home() {
             Go to Dashboard
           </Link>
           <Link
-            href="/dashboard"
+            href="/transfer"
             className="px-4 py-2 border border-black rounded-4xl cursor-pointer transition-transform duration-200 hover:scale-105 dark:invert dark:text-black"
           >
             Transfer Funds

@@ -4,7 +4,7 @@
       "id": "3",
       "name": "Alice Johnson",
       "currency": "EUR",
-      "balance": 9998
+      "balance": 10200
     },
     {
       "id": "4",
@@ -16,7 +16,7 @@
       "id": "5",
       "name": "Charlie Davis",
       "currency": "EUR",
-      "balance": 4500
+      "balance": 4628
     },
     {
       "id": "7",
@@ -52,7 +52,7 @@
       "id": "12",
       "name": "Jack Young",
       "currency": "GBP",
-      "balance": 1500
+      "balance": 1700
     },
     {
       "id": "13",
@@ -100,7 +100,7 @@
       "id": "9cd0",
       "name": "Fahd Lihidheb",
       "currency": "JPY",
-      "balance": 300
+      "balance": 80
     }
   ]
 }

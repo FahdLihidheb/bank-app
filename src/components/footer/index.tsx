@@ -31,7 +31,7 @@ const Footer = () => {
           width={16}
           height={16}
         />
-        Go to eurosender.com →
+        Go to next.com →
       </a>
     </footer>
   );
