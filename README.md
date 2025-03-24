@@ -2,7 +2,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+Add a .env.local with `NEXT_PUBLIC_API_URL=http://localhost:4000`
+
+Then, run the mock api server:
+
+```bash
+npx json-server --watch mock/db.json --port 4000
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
